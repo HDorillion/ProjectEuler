@@ -7,5 +7,4 @@
 
 namespace project_euler {
     void print_smallest_multiple_of_one_through_n(const unsigned int n);
-    void print_smallest_multiple_of_one_through_n_with_prime_factors(const unsigned int n);
 }
