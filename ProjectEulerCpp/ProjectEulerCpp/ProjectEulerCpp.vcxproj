@@ -139,12 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="largest_product_of_a_series.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="maths.cpp" />
     <ClCompile Include="smallest_multiple.cpp" />
     <ClCompile Include="sum_square_difference.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="largest_product_of_a_series.h" />
     <ClInclude Include="maths.h" />
     <ClInclude Include="project_euler.h" />
     <ClInclude Include="smallest_multiple.h" />
