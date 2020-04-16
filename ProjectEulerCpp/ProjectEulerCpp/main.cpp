@@ -1,4 +1,4 @@
-#include "smallest_multiple.h"
+#include "project_euler.h"
 
 namespace pe = project_euler;
 

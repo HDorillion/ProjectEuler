@@ -21,9 +21,24 @@
     <ClCompile Include="smallest_multiple.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="sum_square_difference.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="maths.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="smallest_multiple.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sum_square_difference.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="maths.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="project_euler.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
