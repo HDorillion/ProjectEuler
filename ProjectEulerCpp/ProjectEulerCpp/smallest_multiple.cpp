@@ -9,7 +9,7 @@ namespace project_euler {
     // Prints the least common multiple of the sequence 1 to n
     void print_smallest_multiple_of_one_through_n(const unsigned int n) {
         std::vector<unsigned int> vec;
-        for (auto i = 1; i < n; ++i) {
+        for (auto i = 1U; i < n; ++i) {
             auto primes = math::get_prime_factors(i);
             std::vector<unsigned int> result;
             auto new_end = std::set_difference(

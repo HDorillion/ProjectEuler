@@ -30,6 +30,12 @@
     <ClCompile Include="largest_product_of_a_series.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="special_pythagorean_triplet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="summation_of_primes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="smallest_multiple.h">
@@ -45,6 +51,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="largest_product_of_a_series.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="special_pythagorean_triplet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="summation_of_primes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

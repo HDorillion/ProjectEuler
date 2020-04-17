@@ -143,6 +143,8 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="maths.cpp" />
     <ClCompile Include="smallest_multiple.cpp" />
+    <ClCompile Include="special_pythagorean_triplet.cpp" />
+    <ClCompile Include="summation_of_primes.cpp" />
     <ClCompile Include="sum_square_difference.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -150,6 +152,8 @@
     <ClInclude Include="maths.h" />
     <ClInclude Include="project_euler.h" />
     <ClInclude Include="smallest_multiple.h" />
+    <ClInclude Include="special_pythagorean_triplet.h" />
+    <ClInclude Include="summation_of_primes.h" />
     <ClInclude Include="sum_square_difference.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
